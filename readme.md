@@ -1,3 +1,9 @@
+# (WIP) Chrom extension for password generation using react
+
+Simple extension to generate password of a given length
+using differents parameters like excluding numbers or only special characters
+
+
 # Chrome Extension boilerplate created with React Typescript
 
 ## Getting started
